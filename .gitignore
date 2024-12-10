@@ -1,0 +1,8 @@
+.hugo_build.lock
+public
+resources/*
+.idea
+
+# Local Netlify folder
+.netlify
+.vscode/
